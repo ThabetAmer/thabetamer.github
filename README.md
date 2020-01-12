@@ -1,93 +1,97 @@
-# The Minimal theme
+---
+title: Thabet Amer
+layout: default
+---
 
-[![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+# About
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+A solutions architect and `MBA` holder with `10 years` of experience in helping firms excel by adopting cutting-edge technologies aligned with financial and business goals, handling IT strategies from planning to execution. Focuses on `digitalization`, `SaaS` and `automation`.
 
-![Thumbnail of minimal](thumbnail.png)
+Spent my years of experience in managing software projects and building IT solutions from design to delivery, leading teams, building cloud services, implementing `DevOps` practices, and maintaining live systems. An enthusiast for `Everything-as-Code (GitOps)` and `Everything as a Service`, and always curious to learn and be part of the next big thing in tech.
 
-## Usage
+## Tech Stack
 
-To use the Minimal theme:
+* * *
 
-1. Add the following to your site's `_config.yml`:
+* `DevOps Toolset:` CI/CD with Jenkins pipelines on Groovy, Containerization with Docker and ECR, Orchestration on Docker Swarm, Compose and Kubernetes, EKS, IAC using CloudFormation and Ansible, Ant, Prometheus, Nagios.
+* `Microservices:` RabbitMQ, SQS, KeyCloak.
+* `Cloud Infrastructure:` AWS (multiple workloads), Azure and GCP (light loads), IBM Softlayer.
+* `Programming and Scripting:` PHP, Java, Python, Bash, Groovy.
+* `Software Development:` LAMP stack, Apache/Nginx, Agile SDLC (Kanban/Scrum), JIRA, Redmine, Confluence, Wikis, MS Project, Git, SVN, MVC Design, REST API, SOAP.
+* `Datastores:` MySQL, MongoDB, Redis, ElasticSearch.
+* `Telecom:` VoIP, Asterisk/IVR, Kannel/SMPP.
+* `Network and security:` VPN/IPSec, HA/LB, DR.
 
-    ```yml
-    theme: jekyll-theme-minimal
-    ```
+# Professional Experience
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+* * *
+  
+### Deputy CTO [@Souktel Inc](http://souktel.com)
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+_Feb 2013 - Present (7 yrs), USA_
+
+**Deputy Chief Technology Officer - CTO** _(Promoted)_ _Nov 2018 - Present_
+
+Through proven technical and leadership skills, I was promoted to take over CTO's daily operational duties, by overseeing 5+ concurrent agile software projects delivery, leading and supervising a cross-functional team of 20+ engineers to ensure completion of deliverables and adherence to timelines, conducting recruiting and training for staff and resource planning.
+
+**Development Operations Manager** _(Promoted)_ _Jan 2018 - Oct 2018_
+
+Led the process of elevating development processes efficiency and overall SDLC, through implementing DevOps practices that turned to save 30% of software release time by initiating CI/CD with Jenkins, Docker, Swarm, Ant with Sahi for test automation. Pioneered Infrastructure as Code toolsets with CloudFormation and Puppet to ease managing 30+ AWS EC2 instances.
+
+**Integration Lead Engineer** _Feb 2013 - Dec 2017_
+
+Besides the daily routine system administration duties on AWS plus light loads on Azure and GCP, I led 10+ Agile software projects using Kanban and Scrum, with 10s-100s K USD budgets as SaaS platforms for data collection, M&E, Outreach, and LMS, using CodeIgniter and Laravel frameworks, MySQL, MongoDB, JIRA, BitBucket Git. Moreover, I designed, developed and maintained REST APIs based on PHP and Python for various telecom and social channels.
+
+### System Administrator and Architect [@United Nations Office on Drugs and Crime](http://unodc.org)
+
+_Nov 2012 - Oct 2013 (1 yr), Palestine_
+
+Was assigned as an IT program consultant to help a local governmental department in the design and building a highly-available mail system, serving 1K+ users, scalable to 10K+, integrated with LDAP for AAA, based on Linux, Postfix, Dovecot, and Roundcube. To sustain the project, I trained a 15+ IT operations team and introduced ISO-9001 SOP for technical documentation using Wiki.
+
+### Networks and Systems Engineer [@Bisan Systems Ltd](http://www.bisan.com)
+
+_Nov 2010 - Oct 2012 (2 yrs), Palestine_
+
+Directed the process of migrating the system to poly-cloud IaaS providers like Amazon AWS, Alongside managing multi-location hybrid datacenters. Also, I administered business applications backed by replicated MySQL databases and employed advanced monitoring, performance graphing and alarming alerts with Nagios/Cacti/SNMP/Asterisk.
+
+### Systems And VoIP Solutions Engineer [@Exalt Technologies Ltd](http://exalt-tech.com)
+
+_Feb 2009 - Oct 2010 (1 yr 9 mos), Palestine_
+
+Helped my firm to enter the VoIP market by designing commercial Asterisk SIP/IAX IP-PBX, and eFax solution, besides the system administration duties for the local network, on-premise Linux-based servers, and various open-source software as OpenVPN, LDAP/RADIUS, Twiki, Bugzilla, Trac, SVN, Bind, Squid, and Samba.
+
+# Recent Projects
+
+* * *
+
+* ### [DevOps Adoption for Souktel](https://gist.github.com/ThabetAmer)
+  
+  Restructured practices for SDLC into agile CI/CD and performed several team wide sessions as part of capacity building.
+  
+  _Tech Stack: Jenkins pipelines, Docker, ECR, EC2, Ansible, Ant, Prometheus._
 
 
+* ### Omnichannel Outreach Platform (proprietary)
 
-## Customizing
+  Led a team to design and build outreach platform customized for several INGO clients to interact with their beneficiaries, automating customer engagements with surveys, CRM and Case Management. Channels included Whatsapp, Facebook chat, Email, automated IVR and SMS.
 
-### Configuration variables
+  _Tech Stack: Web Microservices (Lumen, Vue, MySQL, RabbitMQ, KeyCloak)._
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+* ### Monitoring and Evaluation Platform (proprietary)
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+  Led a team to implement an enterprise M&E platform with the capabilities of data collection via Web, mobile app and , in addition to data visualization and reporting via dynamic indicators. Customized for multilingual and personalized dashboards.
 
-Additionally, you may choose to set the following optional variables:
+  _Tech Stack: Monolithic Laravel, Vue, MySQL._
 
-```yml
-logo: [Location of the logo]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+* ### Connectivity API Gateway For Telecom and Social Networks (proprietary)
 
-### Stylesheet
+  Developed REST API gateway to handle bothway requests/callbacks for transactions on telecom (SMS and IVR) and social networks (Whatsapp and Facebook) using inhouse built endpoints and third-party providors.
 
-If you'd like to add your own custom styles:
+  _Tech Stack: PHP, Asterisk/IVR, Kannel/SMPP, SQS._
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+# Contact
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+* * *
 
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. [Copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+I'm open to hear from you via [Email](mailto:thabet.amer@gmail.com), [phone](tel:+1-773-669-6004) or connect via my professional profiles on
+[Github](https://thabetamer.github.com), [Linkedin](https://linkedin.com/in/thabetamer) and [Twitter](https://twitter.com/thabetamer)
