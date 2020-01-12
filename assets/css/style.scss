@@ -2,3 +2,14 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.result li.active a {
+    color: lightgray;
+    cursor: default;
+  }
+
+code, pre {
+    font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    color: #333;
+    background-color: #dfebf3;
+}
