@@ -21,13 +21,22 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+	{% for item in site.data.navbar %}
+    	<li class="{% if item.url == page.url %}active{% endif %}">
+      	<a href="{{ item.url }}">{{ item.title }}</a>
+    	</li>
+	{% endfor %}
 
+        {% if false %}
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+        {% endif %}
 
+        {% if false %}
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
         {% endif %}
 
         {% if site.show_downloads %}
@@ -44,8 +53,11 @@
 
       </section>
       <footer>
+
+        {% if false %}
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
