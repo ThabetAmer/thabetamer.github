@@ -9,7 +9,17 @@
   }
 
 code, pre {
-    font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-    color: #333;
-    background-color: #dfebf3;
+    background-color: #ffecec;
+}
+
+body {
+    color: #000000;
+}
+
+a {
+    color: #b92626;
+}
+
+a:hover, a:focus {
+    color: #980808;
 }
