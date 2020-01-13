@@ -92,23 +92,23 @@ Helped my firm to enter the VoIP market by designing commercial Asterisk SIP/IAX
 
 * * *
 
-* Continuous Learning on Soft Skills, Leadership, Business Management, Strategic Planning, Agile Project and Product Management, _LinkedIn Learning_
+* Continuous Learning on Soft Skills, Leadership, Business Management, Strategic Planning, Agile Project and Product Management. _LinkedIn Learning_
 
-* Continuous Learning on DevOps, Solutions Architecture and Infrastructure, Cloud Services, _LinkedIn Learning, Udemy, and DZone_
+* Continuous Learning on DevOps, Solutions Architecture and Infrastructure, Cloud Services. _LinkedIn Learning, Udemy, and DZone_
 
-* **Kubernetes Mastery: Hands-On Lessons**, _Udemy_
+* Kubernetes Mastery: Hands-On Lessons, _Udemy_
 
-* **Docker Mastery: with Kubernetes and Swarm**, _Udemy_
+* Docker Mastery: with Kubernetes and Swarm, _Udemy_
 
-* **Jenkins Pipeline As Code**, _Udemy_
+* Jenkins Pipeline As Code, _Udemy_
 
-* **Master of Business Administration - MBA**, Aug 2017
+* Master of Business Administration - MBA, Aug 2017
 
-  _Indiana University Of Pennsylvania - IUP, PA, USA_
+  _[@Indiana University Of Pennsylvania - IUP](http://iup.edu/), PA, USA_
 
-* **B.E. Computer Systems Engineering**, Jun 2009
+* B.E. Computer Systems Engineering, Jun 2009
 
-  _Birzeit University, Palestine_
+  _[@Birzeit University](http://birzeit.edu/), Palestine_
 
 # Contact
 
