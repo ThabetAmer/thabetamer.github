@@ -23,3 +23,21 @@ a {
 a:hover, a:focus {
     color: #980808;
 }
+
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+
+.navbar li a {
+  display: block;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: #980808;
+  color: white;
+}
