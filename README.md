@@ -70,7 +70,6 @@ Helped my firm to enter the VoIP market by designing commercial Asterisk SIP/IAX
   
   _Tech Stack: Jenkins pipelines, Docker, ECR, EC2, Ansible, Ant, Prometheus._
 
-
 * ### Omnichannel Outreach Platform (proprietary)
 
   Led a team to design and build outreach platform customized for several INGO clients to interact with their beneficiaries, automating customer engagements with surveys, CRM and Case Management. Channels included Whatsapp, Facebook chat, Email, automated IVR and SMS.
@@ -89,9 +88,31 @@ Helped my firm to enter the VoIP market by designing commercial Asterisk SIP/IAX
 
   _Tech Stack: PHP, Asterisk/IVR, Kannel/SMPP, SQS._
 
+# Education
+
+* * *
+
+* Continuous Learning on Soft Skills, Leadership, Business Management, Strategic Planning, Agile Project and Product Management. _LinkedIn Learning_
+
+* Continuous Learning on DevOps, Solutions Architecture and Infrastructure, Cloud Services. _LinkedIn Learning, Udemy, and DZone_
+
+* Kubernetes Mastery: Hands-On Lessons, _Udemy_
+
+* Docker Mastery: with Kubernetes and Swarm, _Udemy_
+
+* Jenkins Pipeline As Code, _Udemy_
+
+* Master of Business Administration - MBA, Aug 2017
+
+  _[@Indiana University Of Pennsylvania - IUP](http://iup.edu/), PA, USA_
+
+* B.E. Computer Systems Engineering, Jun 2009
+
+  _[@Birzeit University](http://birzeit.edu/), Palestine_
+
 # Contact
 
 * * *
 
 I'm open to hear from you via [Email](mailto:thabet.amer@gmail.com), [phone](tel:+1-773-669-6004) or connect via my professional profiles on
-[Github](https://thabetamer.github.com), [Linkedin](https://linkedin.com/in/thabetamer) and [Twitter](https://twitter.com/thabetamer)
+[Github](https://github.com/thabetamer), [Linkedin](https://linkedin.com/in/thabetamer) and [Twitter](https://twitter.com/thabetamer)

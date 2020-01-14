@@ -115,4 +115,4 @@ Helped my firm to enter the VoIP market by designing commercial Asterisk SIP/IAX
 * * *
 
 I'm open to hear from you via [Email](mailto:thabet.amer@gmail.com), [phone](tel:+1-773-669-6004) or connect via my professional profiles on
-[Github](https://thabetamer.github.com), [Linkedin](https://linkedin.com/in/thabetamer) and [Twitter](https://twitter.com/thabetamer)
+[Github](https://github.com/thabetamer), [Linkedin](https://linkedin.com/in/thabetamer) and [Twitter](https://twitter.com/thabetamer)
